@@ -18,7 +18,9 @@ include_once ("Webpagepthumbnail.class.php");
 
 $obj = new Webpagethumbnail();
 
-?>
+$imagepath = $obj->getThumbnail("http://bing.com");
 
-<img src="<?php echo $obj->getThumbnail("http://bing.com");?>">
+echo $imagepath;
+
+?>
 
