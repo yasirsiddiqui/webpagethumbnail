@@ -1,4 +1,4 @@
-webpagethumbnail
+Get Image Preview Of Any Web Page
 ================
 
 This sample project demonstrates how you get image preview of any web page using thumbalizr api in PHP. It also supports
