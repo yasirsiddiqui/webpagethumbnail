@@ -1,0 +1,7 @@
+Follow the following instructions:
+
+1) Create account at http://www.thumbalizr.com/
+
+2) After login get API Key and replace the value in config.php
+
+3) Enjoy usign the api
