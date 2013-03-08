@@ -2,6 +2,11 @@ Follow the following instructions:
 
 1) Create account at http://www.thumbalizr.com/
 
-2) After login get API Key and replace the value in config.php
+2) After login at thumbalizr.com get API Key and replace the value in config.php
 
-3) Enjoy usign the api
+3) Configure the cache file directory and cache expiry time in config.php
+
+4) YOu can also configure thumbnail parameters in config.php
+
+5) Enjoy usign the api
+
